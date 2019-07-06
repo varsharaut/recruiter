@@ -613,4 +613,7 @@ class Admin extends CI_Controller {
 		// $this->db->insert('eg',$data);
 		// redirect('admin/eg');
 	}
+	public function hii(){
+		
+	}
 }
